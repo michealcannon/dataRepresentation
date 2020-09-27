@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+    <technical_books>
+        <book>
+            <ISBN>6475873647</ISBN>
+            <title>technical book a</title>
+            <author>J Murphy</author>
+        </book>
+        <book>
+            <ISBN>6475849839</ISBN>
+            <title>technical book b</title>
+            <author>B Kelly</author>
+        </book>
+    </technical_books>
+    <cookery_books>
+        <book>
+            <ISBN>6482937465</ISBN>
+            <title>cookery book a</title>
+            <author>M Cannon</author>
+        </book>
+        <book>
+            <ISBN>6482974856</ISBN>
+            <title>cookery book b</title>
+            <author>B Downey</author>
+        </book>
+    </cookery_books>
+
+</library>
